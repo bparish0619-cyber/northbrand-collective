@@ -58,7 +58,7 @@ export const TOOLS: Tool[] = [
     description: 'Frontend engineering research focused on Vercel-deployed React and TypeScript experiments.',
     longDescription: 'The laboratory for Northbrand Collective’s code DNA. Every deployment follows a "No-Waste" engineering approach, focusing on atomic components, accessible UI, and sub-second render times.',
     category: 'Development',
-    imageUrl: 'https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://images.unsplash.com/photo-1595776613215-fe04b78de7d0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000',
     link: 'https://github.com/brondolfr',
     features: ['Vercel High-Availability', 'Atomic Design', 'Rigorous Testing']
   }
