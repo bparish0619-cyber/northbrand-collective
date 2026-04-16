@@ -15,7 +15,7 @@ export const TOOLS: Tool[] = [
     longDescription: 'Photography is an instrument of vision. The Aperture project explores the desolation of the Texas plains through a technical lens, prioritizing composition rigor and the "Leica Look"—sharp subject isolation with creamy, atmospheric bokeh.',
     category: 'Photography',
     imageUrl: 'https://images.unsplash.com/photo-1533923468285-0168217fad29?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000',
-    link: 'https://www.instagram.com/brondolfr.lo',
+    link: 'https://www.northbrandaperture.net',
     features: ['Subject Isolation', 'High Dynamic Range', 'Monochrome Focus']
   },
   {
@@ -27,7 +27,7 @@ export const TOOLS: Tool[] = [
     category: 'Military/VA',
     imageUrl: 'https://images.unsplash.com/photo-1560114928-40f1f1eb26a0?auto=format&fit=crop&q=80&w=1000',
     link: 'https://va-healthcare.vercel.app/',
-    features: ['FMEA Claim Logic', 'Standardized Checklists', 'Secure Tracking']
+    features: ['VA Claim Logic', 'Standardized Checklists', 'Secure Execution']
   },
   {
     id: 'p4',
@@ -49,7 +49,7 @@ export const TOOLS: Tool[] = [
     category: 'Military/VA',
     imageUrl: 'https://images.unsplash.com/photo-1617721926586-4eecce739745?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000',
     link: 'https://crm-jmats.vercel.app/',
-    features: ['Skill Translation Logic', 'Secure Data Vault', 'Logistics Dashboard']
+    features: ['Skillset Logic', 'Secure Training Vault', 'Logistics Dashboard']
   },
   {
     id: 'p6',
