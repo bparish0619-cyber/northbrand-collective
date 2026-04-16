@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Northbrand Collective
 
 Welcome to the **Northbrand Collective** – the central repository for operational logic, tools, and visual journals. This project serves as a frontend engineering laboratory focused on React and TypeScript, emphasizing atomic components, accessible UI, and sub-second render times.
