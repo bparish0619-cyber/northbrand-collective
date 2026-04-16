@@ -36,7 +36,7 @@ export const TOOLS: Tool[] = [
     description: 'Strategic dashboard designed to identify and neutralize failure points in long-term financial planning.',
     longDescription: 'Most tools show growth; we show risk. Using the "Invert Problems" mental model, this curator allows users to stress-test their retirement against inflation spikes, market crashes, and healthcare variables to ensure total system integrity.',
     category: 'Retirement',
-    imageUrl: 'https://images.unsplash.com/photo-1551868455-83e9112228b3?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=2606&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000',
     link: 'https://retirement-curator.vercel.app/',
     features: ['Inflation Stress-Testing', 'Failure-Point Scenarios', 'Precision Projection']
   },
