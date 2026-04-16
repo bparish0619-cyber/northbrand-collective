@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+  --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-leica-red: #E20613;
+  --color-leica-black: #000000;
+  --color-leica-white: #FFFFFF;
+  --color-leica-gray: #1A1A1A;
+}
+
+@layer base {
+  body {
+    @apply antialiased text-leica-black bg-leica-white;
+  }
+}
+
+@layer utilities {
+  .leica-accent {
+    @apply text-leica-red;
+  }
+  .bg-leica {
+    @apply bg-leica-red;
+  }
+  .grayscale-leica {
+    filter: grayscale(1) contrast(1.2) brightness(0.9);
+  }
+}
