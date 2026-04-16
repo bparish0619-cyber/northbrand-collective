@@ -14,7 +14,7 @@ export const TOOLS: Tool[] = [
     description: 'Leica-centric photography focusing on high-contrast, shallow depth of field, and monochromatic West Texas landscapes.',
     longDescription: 'Photography is an instrument of vision. The Aperture project explores the desolation of the Texas plains through a technical lens, prioritizing composition rigor and the "Leica Look"—sharp subject isolation with creamy, atmospheric bokeh.',
     category: 'Photography',
-    imageUrl: 'https://images.unsplash.com/photo-1516961642265-531546e84af2?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://images.unsplash.com/photo-1533923468285-0168217fad29?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80&w=1000',
     link: 'https://www.instagram.com/brondolfr.lo',
     features: ['Subject Isolation', 'High Dynamic Range', 'Monochrome Focus']
   },
