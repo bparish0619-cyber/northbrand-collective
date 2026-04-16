@@ -47,7 +47,7 @@ export const TOOLS: Tool[] = [
     description: 'Operational tracking system for military skill sets and transition logistics.',
     longDescription: 'JMATS acts as a technical force multiplier. It translates military service records into civilian career technical specs, externalizing data to a central source of truth (Supabase) to prevent skill-set loss during transition.',
     category: 'Military/VA',
-    imageUrl: 'https://images.unsplash.com/photo-1500634245200-e5245c7574ef?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://unsplash.com/photos/white-and-brown-wooden-conference-table-vfRkE_9wuPo?auto=format&fit=crop&q=80&w=1000',
     link: 'https://crm-jmats.vercel.app/',
     features: ['Skill Translation Logic', 'Secure Data Vault', 'Logistics Dashboard']
   },
